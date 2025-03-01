@@ -4,8 +4,6 @@
 
 DocuTech is a modern, responsive landing page for an AI-powered document management platform. Built with React.js and Tailwind CSS, the application provides an engaging and informative user interface showcasing the product's key features and benefits.
 
-![Project Banner](./src/assets/readme-banner.png)
-
 ## 🌐 Live Demo
 
 **Deployed Site:** [DocuTech Landing Page](https://landing-page-wheat-phi-62.vercel.app/)
